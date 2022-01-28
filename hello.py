@@ -8,5 +8,3 @@ input, date = func()
 
 print(f"Hello, {input}.")
 print(f"It is very simple and can display the current time: {date}.")
-
-
